@@ -1,0 +1,10 @@
+GIT
+  remote: https://github.com/fnichol/chef-rbenv
+  ref: v0.6.10
+  sha: dee3edd9f1118aff336539a8e3497704da2aebff
+  specs:
+    rbenv (0.6.10)
+
+DEPENDENCIES
+  rbenv (>= 0)
+
